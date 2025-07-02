@@ -1,0 +1,24 @@
+/* 앱 타이틀 */
+"app_title_1" = "집중";
+"app_title_2" = "성장";
+"app_title_3" = "성취";
+"app_title_4" = "발전";
+"app_title_5" = "완성";
+"app_title_final" = "협력";
+
+
+/* 로그인 관련 */
+"google_login" = "Google로 계속하기";
+"signup" = "회원 가입";
+"login" = "로그인";
+"email_login" = "Email로 계속하기";
+
+/* 에러 메시지 */
+"login_error" = "로그인 중 오류가 발생했습니다";
+"network_error" = "네트워크 오류가 발생했습니다";
+"error_confirm" = "확인";
+
+
+"terms_agreement_text" = "로그인 버튼을 누르면 이용약관 및 개인정보처리방침에 동의한 것으로 처리됩니다.";
+"terms_of_service" = "이용약관";
+"privacy_policy" = "개인정보처리방침";
